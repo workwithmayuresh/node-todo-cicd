@@ -1,6 +1,6 @@
 # node-todo-cicd
 
-Run these commands and check : Webhook is working properly
+Run these commands :
 
 
 `sudo apt install nodejs`
